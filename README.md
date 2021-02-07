@@ -19,7 +19,9 @@ In this repository I added a collection of jupyter notebooks with
 examples of Deep Learning Neural Networks models for *classification*, *regression*, 
 *image processing* and using **TensorFlow**.
 
-For the IMDB Dataset, please, download it [here](https://www.imdb.com/interfaces/).
+**For IMDB Dataset, please, download it [here](https://www.imdb.com/interfaces/).**
+
+**For more examples of natural language processing using Tensorflow, please, visit my [NLP repo](https://github.com/mariahsonja/natural-language-processing/tree/main/tensorFlow/neural-network).**
 
 **It contains:**
 
